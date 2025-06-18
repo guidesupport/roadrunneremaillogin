@@ -12,23 +12,20 @@ Roadrunner Email Login – Sign In and Access Your Spectrum Webmail Account
 
 
 How to log in to a Roadrunner (Spectrum) email account?
-=====================================================
-
+========================================================
 
 To access your Roadrunner (Spectrum) email account:
 
 1. Go to the official login page:  
    `https://webmail.spectrum.net <https://webmail.spectrum.net>`_
 
-2. Enter your email credentials:  
+2. Enter your email credentials:
+   - **Username:** Your full Roadrunner email address (e.g., example@rr.com)
+   - **Password:** The password you set for your account
 
-Username: Your full Roadrunner email address (e.g., example@rr.com)  
+3. Click the **“Sign In”** button.
 
-Password: The password you set for your account
-
-3. Click the “Sign In” button.
-
-✅ Once logged in, you'll be able to check emails, manage folders, and adjust settings.
+✅ Once logged in, you’ll be able to check emails, manage folders, and adjust settings.
 
 What is the Roadrunner Email Login Page?
 ----------------------------------------
