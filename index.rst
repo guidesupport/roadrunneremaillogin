@@ -1,7 +1,7 @@
 Roadrunner Email Login – Sign In and Access Your Spectrum Webmail Account
 =====================================================
 
-To activate your UCard on UnitedHealthcare, visit the official activation page at `activate.uhc.com <https://activate.uhc.com>`_. You may need to log in or register for a UnitedHealthcare member account to complete the  UnitedHealthcare activation. 
+`Roadrunner email login <https://webmail.spectrum.net>`_ is the gateway to accessing your Spectrum Webmail account, especially if you were previously a Time Warner Cable or Bright House Networks customer. Whether you want to check your inbox, send messages, or manage your account settings, logging into your Roadrunner email is simple and secure through Spectrum’s official portal.
 
 
 .. image:: get-button.png
@@ -9,8 +9,7 @@ To activate your UCard on UnitedHealthcare, visit the official activation page a
    :target: https://webmail.spectrum.net
 
 
- 
- How to log in to a Roadrunner (Spectrum) email account?
+How to log in to a Roadrunner (Spectrum) email account?
  ----------------------------------------
 
 To access your Roadrunner (Spectrum) email account:
