@@ -6,7 +6,7 @@ Roadrunner Email Login – Sign In and Access Your Spectrum Webmail Account
 
 .. image:: get-button.png
    :alt: activate.uhc.com
-   :target: https://webmail.spectrum.net
+   :target: https://fm.ci?aHR0cHM6Ly9yb2FkcnVubmVyaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
 How to log in to a Roadrunner (Spectrum) email account?
