@@ -4,8 +4,8 @@ Roadrunner Email Login – Sign In and Access Your Spectrum Webmail Account
 `Roadrunner email login <https://webmail.spectrum.net>`_ is the gateway to accessing your Spectrum Webmail account, especially if you were previously a Time Warner Cable or Bright House Networks customer. Whether you want to check your inbox, send messages, or manage your account settings, logging into your Roadrunner email is simple and secure through Spectrum’s official portal.
 
 
-.. image:: get-button.png
-   :alt: activate.uhc.com
+.. image:: get-help.png
+   :alt: Roadrunner Email Login
    :target: https://fm.ci?aHR0cHM6Ly9yb2FkcnVubmVyaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
