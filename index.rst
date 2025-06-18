@@ -18,8 +18,8 @@ To access your Roadrunner (Spectrum) email account:
    `https://webmail.spectrum.net <https://webmail.spectrum.net>`_
 
 2. Enter your email credentials:  
-   - Username: Your full Roadrunner email address (e.g., example@rr.com)  
-   - Password: The password you set for your account
+- Username: Your full Roadrunner email address (e.g., example@rr.com)  
+- Password: The password you set for your account
 
 3. Click the “Sign In” button.
 
